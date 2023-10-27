@@ -1,8 +1,36 @@
-# React + Vite
+📃 Lista de Tarefas com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Sobre o Projeto
 
-Currently, two official plugins are available:
+Este é um projeto de aplicativo de lista de tarefas desenvolvido em JavaScript e React. O objetivo é fornecer aos usuários uma maneira eficiente de gerenciar suas tarefas, incluindo adicionar, editar e marcar como concluídas. Além disso, o aplicativo oferece recursos de filtragem e busca para facilitar a localização de tarefas específicas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+➡ Instalação e Execução
+
+Certifique-se de ter o Node.js instalado. Caso ainda não tenha, você pode fazer o download no [site oficial do Node.js](https://nodejs.org/).
+
+➡ Clonando o Repositório
+
+Clone o repositório em seu terminal com o seguinte comando:
+
+```bash
+git clone https://github.com/L4urenmartins/Projeto-M5-React-Corre--o/tree/master/ToDoList
+
+➡ Entre na pasta do projeto:
+
+cd ./https://github.com/L4urenmartins/Projeto-M5-React-Corre--o/tree/master/ToDoList
+
+➡ Instale os pacotes necessários para o funcionamento do aplicativo:
+
+npm install
+
+➡ Inicie o aplicativo com o seguinte comando:
+
+npm run dev
+
+➡ Abra seu navegador e acesse o aplicativo pelo link:
+
+http://localhost:5175/
+
+➡ Para encerrar o aplicativo, você pode pressionar CTRL + C no terminal.
+
+
